@@ -1,2 +1,3 @@
 # odin-recipes
-Proyecto Odin Recetas
+Proyecto Odin para construir un sitio web de recetas
+Contara con una pagina principal indice con las principales recetas
